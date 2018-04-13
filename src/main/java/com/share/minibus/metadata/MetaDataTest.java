@@ -1,4 +1,4 @@
-package com.zshare.minibus.metadata;
+package com.share.minibus.metadata;
 
 public class MetaDataTest {
 
